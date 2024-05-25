@@ -1,5 +1,5 @@
 # Car Maintenance ML Model with Backend API
-I was inspired to do this side project after reading (Balwant Gorad)[https://medium.com/@goradbj/how-to-build-complete-end-to-end-ml-model-backend-restapi-using-fastapi-and-front-end-ui-using-22f64bf04476] medium article, where his focus was to build complete end-to-end ML model, Backend RestAPI using FastAPI and front-end UI using Streamlit. His data set included a Car Price Prediction. 
+I was inspired to do this side project after reading [Balwant Gorad](https://medium.com/@goradbj/how-to-build-complete-end-to-end-ml-model-backend-restapi-using-fastapi-and-front-end-ui-using-22f64bf04476) medium article, where his focus was to build complete end-to-end ML model, Backend RestAPI using FastAPI and front-end UI using Streamlit. His data set included a Car Price Prediction. 
 
 My goal was to do it differently.
 
